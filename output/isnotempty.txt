@@ -1,0 +1,1 @@
+Está pasta é necessária para os arquivo gerados, todo serão salvos aqui.
